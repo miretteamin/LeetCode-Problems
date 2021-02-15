@@ -1,0 +1,5 @@
+﻿  Using triplet "x64-windows" from "D:\vcpkg\installed\x64-windows\"
+  main.cpp
+D:\miret\Documents\My Applications\C_CPP\Online Problems\LeetCode Problems\Edit Distance\main.cpp(6,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\miret\Documents\My Applications\C_CPP\Online Problems\LeetCode Problems\Edit Distance\main.cpp(6,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Edit Distance.vcxproj -> D:\miret\Documents\My Applications\C_CPP\Online Problems\LeetCode Problems\x64\Debug\Edit Distance.exe

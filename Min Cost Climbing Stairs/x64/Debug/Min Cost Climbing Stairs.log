@@ -1,0 +1,4 @@
+﻿  Using triplet "x64-windows" from "D:\vcpkg\installed\x64-windows\"
+  main.cpp
+D:\miret\Documents\My Applications\C_CPP\Online Problems\LeetCode Problems\Min Cost Climbing Stairs\main.cpp(6,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Min Cost Climbing Stairs.vcxproj -> D:\miret\Documents\My Applications\C_CPP\Online Problems\LeetCode Problems\x64\Debug\Min Cost Climbing Stairs.exe
